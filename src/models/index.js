@@ -1,0 +1,12 @@
+module.exports.User = require('./user.model');
+module.exports.Role = require('./role.model');
+module.exports.Product = require('./product.model');
+module.exports.Product_details = require('./product_detail.model');
+module.exports.Category = require('./category.model');
+module.exports.Order = require('./order.model');
+module.exports.Order_details = require('./order_detail.model');
+module.exports.Cart = require('./cart.model');
+module.exports.Permition = require('./permition.model');
+module.exports.RolePermition = require('./roleBasePermition.model');
+module.exports.OrderReturn = require('./orderReturn.model');
+module.exports.OrderReturnDetails = require('./orderReturnDetail.model');
